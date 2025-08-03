@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/CodeChef-5★-brown" />
   </a>
   <a href="mailto:akshit4644@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akshittyagi099@gmail.com-blue" />
+    <img src="https://img.shields.io/badge/Email-akshit4644@gmail.com-blue" />
   </a>
 </p>
 
