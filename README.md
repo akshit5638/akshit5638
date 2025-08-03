@@ -21,7 +21,7 @@
 - 🌱 Currently exploring **Backend Development**, **Distributed Systems**, and **Scalable Systems**
 - 🧠 Strong grasp of **OOP**, **DBMS**, **OS**, and **DSA**
 - 🔭 Interned at **EatClub Brands** as a Backend Engineer  
-- 💻 Tech stack: **MERN**, **Redis**, **PostgreSQL**, **RSpec**, **Rails**
+- 💻 Tech stack: **MERN**, **Ruby On Rails**
 - 🏆 Expert in **Codeforces**, **5★ on CodeChef**, **LeetCode Guardian**
 - 📈 Passionate about solving real-world problems and scaling systems
 - ✨ Looking for challenging **SDE roles** where I can grow & contribute
